@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTK2-Collections", "Collect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK3-Generic Metods", "BTK3-Generic Metods\BTK3-Generic Metods.csproj", "{10588727-848B-4140-81CC-2D432CC2DCDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK4-AttributeKullanımı", "BTK4-AttributeKullanımı\BTK4-AttributeKullanımı.csproj", "{53D64F51-E573-4513-92CA-BF20E9C7C850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK5-Reflections", "BTK5-Reflections\BTK5-Reflections.csproj", "{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{10588727-848B-4140-81CC-2D432CC2DCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10588727-848B-4140-81CC-2D432CC2DCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10588727-848B-4140-81CC-2D432CC2DCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D64F51-E573-4513-92CA-BF20E9C7C850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D64F51-E573-4513-92CA-BF20E9C7C850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D64F51-E573-4513-92CA-BF20E9C7C850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D64F51-E573-4513-92CA-BF20E9C7C850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
