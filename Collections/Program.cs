@@ -18,6 +18,10 @@ namespace Collections
 
             Console.WriteLine(cities[1]);
 
+            Paremetreler paremetreler = new Paremetreler();
+
+            
+
             // listeler aynı isimler yeniden newlendiğinde garbage collettor diğer diziyi sileri
 
             ArrayList arrayList = new ArrayList();
@@ -56,6 +60,8 @@ namespace Collections
             {
                 Console.WriteLine(item.Id + " " + item.Name + caunt);
             }
+
+            
 
             Console.ReadLine();
         }
