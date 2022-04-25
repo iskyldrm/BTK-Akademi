@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK4-AttributeKullanımı",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK5-Reflections", "BTK5-Reflections\BTK5-Reflections.csproj", "{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "AdoNetDemo\AdoNetDemo.csproj", "{84F6167D-C162-419C-AB79-B6E66E0F43FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK6-Entity", "BTK6-Entity\BTK6-Entity.csproj", "{9FA2C85F-05DE-4FA2-A071-1C5A20088823}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84F6167D-C162-419C-AB79-B6E66E0F43FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84F6167D-C162-419C-AB79-B6E66E0F43FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84F6167D-C162-419C-AB79-B6E66E0F43FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84F6167D-C162-419C-AB79-B6E66E0F43FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA2C85F-05DE-4FA2-A071-1C5A20088823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA2C85F-05DE-4FA2-A071-1C5A20088823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA2C85F-05DE-4FA2-A071-1C5A20088823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA2C85F-05DE-4FA2-A071-1C5A20088823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
