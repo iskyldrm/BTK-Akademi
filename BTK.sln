@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK4-AttributeKullanımı",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK5-Reflections", "BTK5-Reflections\BTK5-Reflections.csproj", "{3B5986BE-6B5B-40F9-A7E1-05140B38A6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK6-Entity", "BTK6-Entity\BTK6-Entity.csproj", "{9FA2C85F-05DE-4FA2-A071-1C5A20088823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTK6-Entity", "BTK6-Entity\BTK6-Entity.csproj", "{9FA2C85F-05DE-4FA2-A071-1C5A20088823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK7-Events", "BTK7-Events\BTK7-Events.csproj", "{D7DD0894-AEDF-45AC-927D-A6315F4B4692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTK7-Events", "BTK7-Events\BTK7-Events.csproj", "{D7DD0894-AEDF-45AC-927D-A6315F4B4692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-ReCapProject1", "BTK-ReCapProject1\BTK-ReCapProject1.csproj", "{D453884C-05BB-4D93-A555-FEA675E9803F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D7DD0894-AEDF-45AC-927D-A6315F4B4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7DD0894-AEDF-45AC-927D-A6315F4B4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7DD0894-AEDF-45AC-927D-A6315F4B4692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D453884C-05BB-4D93-A555-FEA675E9803F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D453884C-05BB-4D93-A555-FEA675E9803F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D453884C-05BB-4D93-A555-FEA675E9803F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D453884C-05BB-4D93-A555-FEA675E9803F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
